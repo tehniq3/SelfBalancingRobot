@@ -31,9 +31,9 @@ float angle1 = -15;
 float angle2 = 15;
 
 //Read the project documentation on circuitdigest.com to learn how to set these values
-double Kp = 28.; //21 - Set this first //0 - 250
-double Kd = 0.6; //0.8 - Set this secound //0 - 5
-double Ki = 140; //140 - Finally set this  //0 - 1000
+double Kp = 28.; // - Set this first //0 - 250
+double Kd = 0.6; // - Set this secound //0 - 5
+double Ki = 140; // - Finally set this  //0 - 1000
 /******End of values setting*********/
 
 double input, output;
