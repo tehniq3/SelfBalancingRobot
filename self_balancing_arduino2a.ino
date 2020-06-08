@@ -3,6 +3,7 @@
  * Build on top of Lib: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
  * Website: circuitdigest.com 
  * https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot
+ * small schamges by Nicu FLORICA (niq_ro)
  */
 
 #include "I2Cdev.h"
